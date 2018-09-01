@@ -20,5 +20,4 @@ function getJoke() {
     })
     
     xhr.send();
-    
 }
